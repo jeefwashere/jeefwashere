@@ -27,13 +27,13 @@ Software Engineering Technology student at Conestoga College.
 
 ## 🚀 Projects
 
-### ARGUS
+### ARGUS [https://github.com/jeefwashere/ARGUS-glasses]
 AI-powered smart glasses built using FastAPI, ESP32, and multimodal AI.
 
-### Journalise
+### Journalise [https://github.com/jeefwashere/Journalise]
 Web activity tracker that summarizes activity at the click of a button
 
-### AI Resume Creator
+### AI Resume Creator [[https://github.com/jeefwashere/resume-creator]]
 AI-powered resume tailoring application built with Django.
 
 ## 📫 Connect with Me
