@@ -48,3 +48,4 @@ AI-powered resume tailoring application built with Django.
 ## 📫 Connect with Me
 
 - LinkedIn: https://www.linkedin.com/in/jeff-tieng/
+- Devpost: https://devpost.com/jeefwashere
