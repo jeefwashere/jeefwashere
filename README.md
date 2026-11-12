@@ -14,7 +14,7 @@ Software Engineering Technology student at Conestoga College. Not that much acti
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-black?style=for-the-badge&logo=Svelte)
-![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
 ### Backend
@@ -32,6 +32,9 @@ Software Engineering Technology student at Conestoga College. Not that much acti
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## 🚀 Projects
+
+### CrisisRoom [https://github.com/jeefwashere/BoardroomCrisisSimulator]
+Agentic crisis room simulator that helps train professionals on plans of action during a company crisis.
 
 ### ARGUS [https://github.com/jeefwashere/ARGUS-glasses]
 AI-powered smart glasses built using FastAPI, ESP32, and multimodal AI.
